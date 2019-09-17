@@ -1,3 +1,6 @@
 222
 
-phpinfo();
+phpinfo();sdada
+sadada
+zxcz
+asdad
